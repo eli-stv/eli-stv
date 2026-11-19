@@ -10,3 +10,16 @@
 
 <p align="center"> I've been in the creepypasta fandom since 2018 and I am currently a college student so #unc </p>
 
+<div align="center">
+
+____
+
+**Availablity depends on status!** <br>
+<br>
+Online = Can text me anytime <br>
+Away = w2i I'm most likely offtab <br>
+Busy = w2i I'm offtab + in class so late reply <br>
+
+</div>
+
+
