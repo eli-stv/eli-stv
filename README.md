@@ -4,7 +4,7 @@
 
 <div align="center">
 
-**[strawpage](https://eli-stv.straw.page/>) , [pronouns.page](https://en.pronouns.page/@Eli.stv)**
+**[strawpage](https://eli-stv.straw.page/) , [pronouns.page](https://en.pronouns.page/@Eli.stv)**
 
 </div>
 
