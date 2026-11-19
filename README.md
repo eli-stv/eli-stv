@@ -1,3 +1,5 @@
+<img width="2560" height="944" alt="mansion" src="https://github.com/user-attachments/assets/c3c46018-8bb2-40a6-bdf1-af3b0df65df5" />
+
 # <p align="center"> Please read before interacting </p>
 
 <p align="center"> Check out my pages for more info about my boundaries and interests! </p>
