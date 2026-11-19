@@ -25,3 +25,15 @@ Busy = w2i I'm offtab + in class so late reply <br>
 </div>
 
 
+
+
+<div align="center">
+
+____
+
+## Important!
+I struggle with communication, social cues and regulating my feelings and emotions. <br>
+I'm socially awkward and pretty shy so most likely I will *not* start <br>
+conversation, but I am always free to talk to and I love making new friends!
+
+</div>
