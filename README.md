@@ -42,7 +42,7 @@ conversation, but I am always free to talk to and I love making new friends!
 
 <div align="center">
 
-  
+### funny stuff
 <img width="382" height="102" alt="funny" src="https://github.com/user-attachments/assets/1567f414-d156-41e2-9e2f-fcb36a773f3f" />
 
 </div>
