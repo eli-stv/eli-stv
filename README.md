@@ -22,6 +22,7 @@ Online = Can text me anytime <br>
 Away = w2i I'm most likely offtab <br>
 Busy = w2i I'm offtab + in class so late reply <br>
 
+
 </div>
 
 
@@ -35,5 +36,13 @@ ____
 I struggle with communication, social cues and regulating my feelings and emotions. <br>
 I'm socially awkward and pretty shy so most likely I will *not* start <br>
 conversation, but I am always free to talk to and I love making new friends!
+
+</div>
+
+
+<div align="center">
+
+  
+<img width="382" height="102" alt="funny" src="https://github.com/user-attachments/assets/1567f414-d156-41e2-9e2f-fcb36a773f3f" />
 
 </div>
